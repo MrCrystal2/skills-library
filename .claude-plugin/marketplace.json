@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "skills-library",
+  "owner": {
+    "name": "MrCrystal2",
+    "url": "https://github.com/MrCrystal2"
+  },
+  "description": "A public library of agent skills, installable as a single Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "skills-library",
+      "source": "./",
+      "description": "Nine everyday agent skills: Apple design, QR codes, guided learning, humanized writing, code untangling, security audits, web design guidelines, video fetching and a quick update pipeline.",
+      "license": "MIT",
+      "keywords": ["skills", "agents", "design", "security", "writing", "qr"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "skills-library",
+  "description": "A public library of agent skills: apple-design, untangle-codebase, qr-code, guided-learning, humanizer, quickupdate, security-audit, web-design-guidelines, fetch-video.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MrCrystal2",
+    "url": "https://github.com/MrCrystal2"
+  },
+  "homepage": "https://github.com/MrCrystal2/skills-library",
+  "repository": "https://github.com/MrCrystal2/skills-library",
+  "license": "MIT",
+  "keywords": ["skills", "agents", "library"]
+}
